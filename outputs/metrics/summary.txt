@@ -1,0 +1,22 @@
+Dataset shape: (470, 16)
+
+Column types and non-null counts:
+None
+
+Missing values per column:
+Hydrogen               0
+Oxigen                 0
+Nitrogen               0
+Methane                0
+CO                     0
+CO2                    0
+Ethylene               0
+Ethane                 0
+Acethylene             0
+DBDS                   0
+Power factor           0
+Interfacial V          0
+Dielectric rigidity    0
+Water content          0
+Health index           0
+Life expectation       0
